@@ -30,5 +30,5 @@ pip install -r requirements.txt
 If you're having issues with installing PyTorch compatible with your CUDA version, we strongly recommend related [documentation page](https://pytorch.org/get-started/previous-versions/).
 
 ## Pretrained Models
-- Two pre-trained models are provided in the `HJSCC/checkpoint` and `HJSCC_feedback/checkpoint` folder, and can be found in the [link](链接：https://pan.baidu.com/s/1G__ozhEDPfxzsY1cB5_FgA?pwd=3wer).
+- Two pre-trained models are provided in the `HJSCC/checkpoint` and `HJSCC_feedback/checkpoint` folder, and can be found in the [link](https://pan.baidu.com/s/1G__ozhEDPfxzsY1cB5_FgA?pwd=3wer).
 
