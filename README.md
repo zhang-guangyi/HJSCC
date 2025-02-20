@@ -1,4 +1,4 @@
-# PyTorch implementation of [Learned Image Transmission with Hierarchical Variational Autoencoder](https://openreview.net/forum?id=UO0bYZdkou) 
+# PyTorch implementation of [Learned Image Transmission with Hierarchical Variational Autoencoder](https://arxiv.org/abs/2408.16340) 
 
 This repository is built upon [QARV](https://github.com/duanzhiihao/lossy-vae) and [NTSCC](https://github.com/wsxtyrdd/NTSCC_JSAC22), thanks very much!
 
