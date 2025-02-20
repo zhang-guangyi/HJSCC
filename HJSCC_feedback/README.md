@@ -27,7 +27,7 @@ Install the required packages with:
 ```bash
 pip install -r requirements.txt 
 ```
-If you're having issues with installing PyTorch compatible with your CUDA version, we strongly recommend related documentation page](https://pytorch.org/get-started/previous-versions/).
+If you're having issues with installing PyTorch compatible with your CUDA version, we strongly recommend related [documentation page](https://pytorch.org/get-started/previous-versions/).
 
 ## Pretrained Models
 - Two pre-trained models are provided in the `HJSCC_feedback/checkpoint` folder.
