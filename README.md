@@ -32,3 +32,5 @@ If you're having issues with installing PyTorch compatible with your CUDA versio
 ## Pretrained Models
 - Two pre-trained models are provided in the `HJSCC/checkpoint` and `HJSCC_feedback/checkpoint` folder, and can be found in the [link](https://pan.baidu.com/s/1G__ozhEDPfxzsY1cB5_FgA?pwd=3wer).
 
+## Note
+In net.py. please set as: for quality_1 lmb=512 while for quality_2 lmb=1024
